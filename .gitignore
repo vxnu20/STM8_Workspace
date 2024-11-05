@@ -1,0 +1,9 @@
+Debug/
+Release/
+*.txt
+
+# .dep is not generic
+*.dep
+
+#other folders
+*_Programmer
